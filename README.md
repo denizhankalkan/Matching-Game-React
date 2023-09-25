@@ -1,3 +1,3 @@
 # Matching-Game-React
-Create a matcing game with React
+Create a matcing game with React, Redux
 
